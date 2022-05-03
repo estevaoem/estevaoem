@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @estevaoem
+- 👀 I’m interested in Python, Javascript, Typescript, Docker, Backend, Devops, Flask, Django, NodeJS, Linux
+- 🌱 I’m currently learning code design patterns
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: estevao.calheira@protonmail.com, https://www.linkedin.com/in/estevao-calheira
